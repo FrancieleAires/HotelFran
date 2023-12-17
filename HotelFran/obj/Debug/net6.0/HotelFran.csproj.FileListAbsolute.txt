@@ -1,0 +1,14 @@
+C:\Users\faire\OneDrive\Área de Trabalho\HotelFran\HotelFran\bin\Debug\net6.0\HotelFran.exe
+C:\Users\faire\OneDrive\Área de Trabalho\HotelFran\HotelFran\bin\Debug\net6.0\HotelFran.deps.json
+C:\Users\faire\OneDrive\Área de Trabalho\HotelFran\HotelFran\bin\Debug\net6.0\HotelFran.runtimeconfig.json
+C:\Users\faire\OneDrive\Área de Trabalho\HotelFran\HotelFran\bin\Debug\net6.0\HotelFran.dll
+C:\Users\faire\OneDrive\Área de Trabalho\HotelFran\HotelFran\bin\Debug\net6.0\HotelFran.pdb
+C:\Users\faire\OneDrive\Área de Trabalho\HotelFran\HotelFran\obj\Debug\net6.0\HotelFran.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\faire\OneDrive\Área de Trabalho\HotelFran\HotelFran\obj\Debug\net6.0\HotelFran.AssemblyInfoInputs.cache
+C:\Users\faire\OneDrive\Área de Trabalho\HotelFran\HotelFran\obj\Debug\net6.0\HotelFran.AssemblyInfo.cs
+C:\Users\faire\OneDrive\Área de Trabalho\HotelFran\HotelFran\obj\Debug\net6.0\HotelFran.csproj.CoreCompileInputs.cache
+C:\Users\faire\OneDrive\Área de Trabalho\HotelFran\HotelFran\obj\Debug\net6.0\HotelFran.dll
+C:\Users\faire\OneDrive\Área de Trabalho\HotelFran\HotelFran\obj\Debug\net6.0\refint\HotelFran.dll
+C:\Users\faire\OneDrive\Área de Trabalho\HotelFran\HotelFran\obj\Debug\net6.0\HotelFran.pdb
+C:\Users\faire\OneDrive\Área de Trabalho\HotelFran\HotelFran\obj\Debug\net6.0\HotelFran.genruntimeconfig.cache
+C:\Users\faire\OneDrive\Área de Trabalho\HotelFran\HotelFran\obj\Debug\net6.0\ref\HotelFran.dll
