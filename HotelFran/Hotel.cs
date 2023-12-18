@@ -88,7 +88,7 @@ namespace HotelFran
             {
                 if (vect[i] != null)
                 {
-                    Console.WriteLine($"{i + 1}: {vect[i].Nome} - {vect[i].Email}");
+                    Console.WriteLine($"{i}: {vect[i].Nome} - {vect[i].Email}");
                 }
 
 
@@ -110,7 +110,7 @@ namespace HotelFran
             Console.WriteLine();
 
             Console.WriteLine("Deseja voltar para o menu principal (s/n)?");
-            char resp = char.Parse(Console.ReadLine());
+            char resp = char.Parse(Console.ReadLine().ToLower());
 
 
 
